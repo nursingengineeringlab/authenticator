@@ -39,8 +39,6 @@ $config['emails'] = array(
 
 	'yahoo.com' => 'yahoo',
 	'aol.com' => 'yahoo',
-
-	'umass.edu' => 'msft',
 );
 
 // Email servers (DNS MX)
